@@ -4,7 +4,7 @@
 
 ## QuickStart
 
-<!-- add docs here for user -->
+小林同学的后台
 
 see [egg docs][egg] for more detail.
 
